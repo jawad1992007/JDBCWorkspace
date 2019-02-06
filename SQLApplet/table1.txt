@@ -1,0 +1,6 @@
+create table table1
+(
+eno int,
+ename varchar(20),
+eaddr varchar(20)
+)

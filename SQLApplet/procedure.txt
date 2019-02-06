@@ -1,0 +1,5 @@
+create procedure p3
+as
+begin
+insert into table1 values(10,'Ankur','Israni')
+end

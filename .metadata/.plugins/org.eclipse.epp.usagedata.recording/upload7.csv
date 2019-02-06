@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263353982164
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263353982289
+started,bundle,org.eclipse.wst.server.core,1.1.101.v20090515,"org.eclipse.wst.server.core",1263353989356
+started,bundle,org.eclipse.wst.server.ui,1.1.102.v20090515,"org.eclipse.wst.server.ui",1263353989387
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1263353990292
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263353992273
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263353992398
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1263354026656
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263354028777
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1263354269251
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263354269516
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1263354544045
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263354546416
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1263354643386
+error,log,,,"Unable to create editor ID com.genuitec.eclipse.sqlexplorer.editors.SQLEditor: No editor descriptor for id com.genuitec.eclipse.sqlexplorer.editors.SQLEditor",1263354646022
+opened,editor,,,"com.genuitec.eclipse.sqlexplorer.editors.SQLEditor",1263354646132
+opened,editor,,,"com.genuitec.eclipse.sqlexplorer.editors.SQLEditor",1263354646147
+activated,editor,,,"com.genuitec.eclipse.sqlexplorer.editors.SQLEditor",1263354646225
+activated,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1263354652699
+closed,editor,,,"com.genuitec.eclipse.sqlexplorer.editors.SQLEditor",1263354652699
+activated,view,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.PackageExplorer",1263354654462
+started,bundle,org.eclipse.pde.core,3.5.0.v20090602,"org.eclipse.pde.core",1263354654992
+started,bundle,org.eclipse.datatools.modelbase.sql,1.0.2.v200906022249,"org.eclipse.datatools.modelbase.sql",1263354660374
+started,bundle,org.eclipse.datatools.modelbase.sql.query,1.0.1.v200906022249,"org.eclipse.datatools.modelbase.sql.query",1263354660406
+started,bundle,org.eclipse.emf.edit,2.5.0.v200906151043,"org.eclipse.emf.edit",1263354660406

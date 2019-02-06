@@ -1,0 +1,45 @@
+read from file
+-------------------
+xp_cmdshell 'type e:\file1.txt'
+
+copy file
+---------
+xp_cmdshell 'copy e:\file1.txt c:\file2.txt'
+
+move file
+----------
+xp_cmdshell 'move c:\file2.txt e:\file2.txt'
+
+rename file
+--------------
+xp_cmdshell 'ren e:\file2.txt file99.txt'
+
+delete file
+-------------
+xp_cmdshell 'del e:\file99.txt'
+
+------------------------------------------------------
+DIRECTORY
+___________
+
+create directory
+-------------------
+xp_cmdshell 'mkdir e:\dir1'
+
+delete directory
+-----------------
+xp_cmdshell  'rmdir e:\dir1'
+
+copy directory
+------------
+xp_cmdshell 'copy e:\dir1 c:\dir2'
+
+rename directory
+---------------------
+xp_cmdshell 'ren e:\dir1 dir2'
+
+list directories
+-------------------
+xp_cmdshell 'dir c:\dir1'
+
+--------------------------------------------
